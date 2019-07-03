@@ -1,5 +1,5 @@
 {
-    "name": "minunit",
+    "name": "Clib-minunit",
     "version": "0.0.1",
     "repo": "DHunte/Clib-minunit",
     "description": "Minimal unit testing framework for C",
