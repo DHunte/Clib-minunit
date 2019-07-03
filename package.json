@@ -1,9 +1,9 @@
 {
-  "name": "Clib-minunit",
-  "version": "0.0.1",
-  "repo": "DHunte/Clib-minunit",
-  "description": "minunit on clib.",
-  "src": [
-    "src/minunit.h",
-  ]
+    "name": "minunit",
+    "version": "0.0.1",
+    "repo": "DHunte/Clib-minunit",
+    "description": "Minimal unit testing framework for C",
+    "keywords": ["unit", "testing"],
+    "license": "MIT",
+    "src": ["src/minunit.h"]   
 }
