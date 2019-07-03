@@ -5,5 +5,5 @@
     "description": "Minimal unit testing framework for C",
     "keywords": ["unit", "testing"],
     "license": "MIT",
-    "src": ["minunit.h"]   
+    "src": ["src/minunit.h"]   
 }
