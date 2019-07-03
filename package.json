@@ -1,0 +1,9 @@
+{
+  "name": "Clib-minunit",
+  "version": "0.0.1",
+  "repo": "DHunte/Clib-minunit",
+  "description": "minunit on clib.",
+  "src": [
+    "src/minunit.h",
+  ]
+}
